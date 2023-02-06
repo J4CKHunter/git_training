@@ -1,1 +1,2 @@
 patrick.txt from change alice
+first letters in patrick.txt
