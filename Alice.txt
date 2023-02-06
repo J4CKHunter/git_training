@@ -6,3 +6,4 @@ pulling with conflicts
 chages from the working diretory, local -> master.
 
 change_alice cherry picking
+change_alice cherry picking moreee
