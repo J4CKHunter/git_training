@@ -1,0 +1,2 @@
+adding some text for Bob.txt 
+adding some more text for bobt.xtxt
