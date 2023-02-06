@@ -6,3 +6,4 @@ pulling with conflicts
 chages from the working diretory, local -> master.
 
 changes for fixup branch
+add more changes for fixup branch
